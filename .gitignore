@@ -1,6 +1,7 @@
 # Node modules
 node_modules/
 Task1/node_modules/
+Task2/node_modules/
 
 # Build output
 dist/
@@ -26,3 +27,8 @@ yarn-error.log*
 
 # Test coverage
 coverage/
+
+# Teste DB
+Task2/data.db
+
+
