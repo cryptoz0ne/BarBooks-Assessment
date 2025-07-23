@@ -2,6 +2,7 @@
 node_modules/
 Task1/node_modules/
 Task2/node_modules/
+Task3/node_modules/
 
 # Build output
 dist/
@@ -30,5 +31,6 @@ coverage/
 
 # Teste DB
 Task2/data.db
+Task3/data.db
 
 
